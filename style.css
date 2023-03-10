@@ -1,0 +1,64 @@
+div {
+    margin-left: 30px;
+}
+img {
+  border-radius: 50%;
+  width:150px
+}
+
+h1{
+    text-align:center
+}
+
+
+table {
+margin-top: 20px;
+margin-bottom: 20px;
+border-collapse: collapse;
+border: 1px solid black;
+width: 80%;
+}
+
+th,td {
+border: 1px solid black;
+padding: 15px;
+}
+
+li{
+    color: lightseagreen;
+}
+.hobby>first-child{
+    color:red;
+}
+.hobby>:li:first-child:first-letter{
+    font-size: 32px;
+    color:black;
+}
+.hobby>li:last-child{
+    color: fuchsia;
+}
+.hobby>li:last-child:first-letter{
+    font-size: 32px;
+    color:black;
+}
+
+a:link{
+    color: blue;
+}
+a:visited{
+    color: red;
+}
+a:hover{
+    color: purple;
+}
+a:active{
+    color: greenyellow;
+}
+
+.thu{
+    text-align: center;
+}
+
+.monhoc{
+    text-align: right;
+}
