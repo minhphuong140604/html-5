@@ -62,3 +62,8 @@ a:active{
 .monhoc{
     text-align: right;
 }
+.hobby{
+    direction: rtl;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
